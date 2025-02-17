@@ -27,7 +27,7 @@ A simple program that demonstrates how to draw a square using basic movement and
 1. Ensure you have Python installed.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/basic-turtle-projects.git
+   git clone https://github.com/TufanDuzel/basic-turtle-projects.git
    ```
 3. Navigate to the project directory and run any script:
    ```bash
